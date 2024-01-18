@@ -1,0 +1,136 @@
+{
+    "status": "ok",
+    "totalResults": 10,
+    "articles": [
+        {
+            "source": {
+                "id": "bbc-news",
+                "name": "BBC News"
+            },
+            "author": "BBC News",
+            "title": "Europe heatwave: Temperatures to soar in Greece as fires still burn",
+            "description": "Officials warn this could be Greece's hottest July weekend in 50 years, with temperatures hitting 45C.",
+            "url": "http://www.bbc.co.uk/news/world-europe-66273287",
+            "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/AA30/production/_130486534_greece_getty.jpg",
+            "publishedAt": "2023-07-22T12:37:18.0970083Z",
+            "content": "Greece is bracing for more intense heat this weekend, with meteorologists warning that temperatures could climb as high as 45C (113F).\r\nPeople have been advised to stay home, and tourist sites - incl… [+2501 chars]"
+        },
+        {
+            "source": {
+                "id": "bbc-news",
+                "name": "BBC News"
+            },
+            "author": "BBC News",
+            "title": "Crimea bridge closed after fuel depot hit - Russia",
+            "description": "Russian-installed authorities halt railway services in Crimea and say Ukraine was behind a drone strike.",
+            "url": "http://www.bbc.co.uk/news/entertainment-arts-66276788",
+            "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/13806/production/_130487897_01317d5e4403772b5e84936f3aea0697f6a441690_0_6421_40331000x628-1.jpg",
+            "publishedAt": "2023-07-22T12:07:20.3468046Z",
+            "content": "A drone attack on an ammunition depot in Crimea has led to civilian evacuations and disrupted transport, Russian authorities have said.\r\nSergei Aksyonov, the Russian-installed governor of occupied Cr… [+2101 chars]"
+        },
+        {
+            "source": {
+                "id": "bbc-news",
+                "name": "BBC News"
+            },
+            "author": "BBC News",
+            "title": "Jamie Foxx: Actor says he's 'on way back' after illness thanks to family",
+            "description": "Actor Jamie Foxx speaks publicly for the first time since being hospitalised earlier this year.",
+            "url": "http://www.bbc.co.uk/news/entertainment-arts-66276785",
+            "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/9BC6/production/_130487893_0312b16f7855503fec505a70adc83042526370e20_0_8192_54641000x667.jpg",
+            "publishedAt": "2023-07-22T10:52:18.8628842Z",
+            "content": "Actor Jamie Foxx has said he is on his way back and returning to work after being hospitalised earlier this year.\r\nIn April, his daughter Corrine Foxx said he had experienced a \"medical complication\"… [+2292 chars]"
+        },
+        {
+            "source": {
+                "id": "bbc-news",
+                "name": "BBC News"
+            },
+            "author": "BBC News",
+            "title": "Matty Healy: 1975 show ended in Malaysia after singer attacks anti-LGBT laws",
+            "description": "Matty Healy launched a lengthy attack on Malaysia's laws, before kissing his band's bass player.",
+            "url": "http://www.bbc.co.uk/news/world-asia-66275913",
+            "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/2FF6/production/_130487221_gettyimages-1528910987.jpg",
+            "publishedAt": "2023-07-22T08:07:20.3453562Z",
+            "content": "British indie band The 1975 have cut short a gig in Malaysia, claiming officials ordered them off stage for breaching the country's anti-LGBT laws.\r\nThe band were headlining the Good Vibes Festival i… [+2715 chars]"
+        },
+        {
+            "source": {
+                "id": "bbc-news",
+                "name": "BBC News"
+            },
+            "author": "BBC News",
+            "title": "Ex-Canadian Mountie charged over alleged China interference",
+            "description": "An ex-Royal Canadian Mounted Police officer is alleged to have helped China with intimidation.",
+            "url": "http://www.bbc.co.uk/news/world-us-canada-66272727",
+            "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/15981/production/_128494488_1ba197911961716824cccadb79e14794a195122e0_0_3170_22181000x700.jpg",
+            "publishedAt": "2023-07-22T06:22:17.5342367Z",
+            "content": "A retired federal police officer in Canada has been charged with foreign interference on behalf of China following a two-year investigation. \r\nWilliam Majcher, 60, allegedly used his contacts in Cana… [+2761 chars]"
+        },
+        {
+            "source": {
+                "id": "bbc-news",
+                "name": "BBC News"
+            },
+            "author": "BBC News",
+            "title": "Matilda Sheils: Body found in search for missing US two-year-old",
+            "description": "Matilda Sheils was swept away with with her nine-month-old brother Conrad in Pennsylvania last weekend.",
+            "url": "http://www.bbc.co.uk/news/world-us-canada-66275922",
+            "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/11E36/production/_130407237_360152183_312941507734307_7253543253709778883_n.jpg",
+            "publishedAt": "2023-07-22T04:37:12.8777357Z",
+            "content": "The body of a young girl found along a river in Pennsylvania is believed to be one of two missing children swept away by flash floods last weekend.\r\nOfficials believe the body is of two-year-old Mati… [+1415 chars]"
+        },
+        {
+            "source": {
+                "id": "bbc-news",
+                "name": "BBC News"
+            },
+            "author": "BBC News",
+            "title": "Polarised Spain eyes the hard-right ahead of election",
+            "description": "Spain goes to the polls to decide its next government on Sunday, and a hard-right coalition is looking likely.",
+            "url": "http://www.bbc.co.uk/news/world-europe-66268330",
+            "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/15D22/production/_130487398_mediaitem130487394.jpg",
+            "publishedAt": "2023-07-22T03:37:13.4714091Z",
+            "content": "Spain's election on Sunday is provoking political tremors even before polls open. \r\nThe most likely government to emerge - most analysts predict - will be a coalition including a hard-right nationali… [+6475 chars]"
+        },
+        {
+            "source": {
+                "id": "bbc-news",
+                "name": "BBC News"
+            },
+            "author": "BBC News",
+            "title": "From Ukraine to Aspen, nervousness over a critical moment for the war",
+            "description": "At the Aspen Security Forum, the war in Ukraine is upper-most in the minds of policymakers.",
+            "url": "http://www.bbc.co.uk/news/world-us-canada-66273787",
+            "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/D33E/production/_130487045_gettyimages-1545060048.jpg",
+            "publishedAt": "2023-07-22T00:07:20.7059702Z",
+            "content": "The rarefied setting of Aspen, Colorado, with its mountain views and manicured lawns, is a world away from the minefields and trenches of Ukraine's front-line, but for a few days this past week the t… [+5453 chars]"
+        },
+        {
+            "source": {
+                "id": "bbc-news",
+                "name": "BBC News"
+            },
+            "author": "BBC News",
+            "title": "Climate records tumble, leaving Earth in uncharted territory - scientists",
+            "description": "A series of records on temperature, ocean heat, and Antarctic sea ice are \"unprecedented\", some scientists say.",
+            "url": "http://www.bbc.co.uk/news/science-environment-66229065",
+            "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/66FB/production/_130436362_climate_change_off_the_charts_promo.png",
+            "publishedAt": "2023-07-21T23:37:17.5809298Z",
+            "content": "A series of climate records on temperature, ocean heat, and Antarctic sea ice have alarmed some scientists who say their speed and timing is \"unprecedented\".\r\nDangerous heatwaves sweeping Europe coul… [+5411 chars]"
+        },
+        {
+            "source": {
+                "id": "bbc-news",
+                "name": "BBC News"
+            },
+            "author": "BBC News",
+            "title": "Texas A&M president Katherine Banks leaves over hiring backlash",
+            "description": "President Katherine Banks says the handling of a black professor's hiring had become a distraction.",
+            "url": "http://www.bbc.co.uk/news/world-us-canada-66275350",
+            "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/11024/production/_130486696_mediaitem130486695.jpg",
+            "publishedAt": "2023-07-21T21:07:21.6115806Z",
+            "content": "The head of Texas A&amp;M University has suddenly left her role amid \"negative press\" surrounding the hiring of a journalism professor. \r\nPresident Katherine Banks said she took responsibility for th… [+2953 chars]"
+        }
+    ]
+}
